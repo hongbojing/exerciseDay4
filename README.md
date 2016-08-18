@@ -10,6 +10,7 @@ This project is a daily exercise project with the purpose of training myself as 
 Go to this [link](http://shields.io/) to add **badge**
 
 Go to this [link](http://www.emoji-cheat-sheet.com/) to add **EMOJI**
+
 ## Installation: for myself usage
 1. Create folders
 2. Define package dependencies and special projects
@@ -19,6 +20,7 @@ Go to this [link](http://www.emoji-cheat-sheet.com/) to add **EMOJI**
 6. Add index.html file as the file to host this application
 7. Build and run this app to see if it works as it is supposed to be.
 8. After making sure the app works, turn back to the codeschool video to try their example.
+
 ## Usage_notification
 TODO_Write_usage_instructions
 ## Contributing
