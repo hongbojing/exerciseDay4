@@ -22,7 +22,7 @@ Go to this [link](http://www.emoji-cheat-sheet.com/) to add **EMOJI**
 8. After making sure the app works, turn back to the codeschool video to try their example.
 
 ## Usage_notification
-TODO_Write_usage_instructions
+You can git clone this PR and run npm install to install all the libs needed, then run npm start to start the app, just make sure you are in the same file as the index.html is.
 ## Contributing
 1. [Hongbo Jing](https://github.com/hongbojing)
 2. Null
