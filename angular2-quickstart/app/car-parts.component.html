@@ -1,0 +1,12 @@
+<p *ngIf="totalCarParts() > 0">There are {{totalCarParts()}} total parts in stock.</p>
+<p *ngIf="totalCarParts() === 0">It is out of stock in stock.</p>
+
+<ul *ngFor="let carPart of carParts">
+    <li>
+        <h2>{{carPart.name | uppercase}}</h2>
+        <p class="description">{{carPart.description}}</p>
+        <p class="price">{{carPart.price | currency:'CAD':true}}
+        <p *ngIf="carPart.inStock > 0">{{carPart.inStock}} in Stock</p>
+        <p *ngIf="carPart.inStock === 0">Out of stock</p>
+    </li>
+</ul>
